@@ -1,0 +1,25 @@
+{
+  "name": "@fisheep/ts-utility",
+  "version": "1.0.0",
+  "description": "根据项目中遇到的场景，累积自己后续可能需要的工具类",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fisheep01/ts-utility.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "fisheep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fisheep01/ts-utility/issues"
+  },
+  "homepage": "https://github.com/fisheep01/ts-utility#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
